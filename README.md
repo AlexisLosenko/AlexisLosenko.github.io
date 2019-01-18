@@ -3,9 +3,9 @@
 ##Voici une petite présentation de mes compétences
 
 ###Langue
--
+
 Anglais, Néerlandais, Français
 
 ###Code
--
+
 C, Python, R, HTML
